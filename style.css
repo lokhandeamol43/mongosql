@@ -6,7 +6,7 @@
   .mongodbBox {
     display: inline-block;
     width: 265px;
-    height: 540px;
+    height: 550px;
     box-sizing: border-box;
     border-style: none;
     box-shadow: 1px 0px 0px black;
@@ -15,20 +15,23 @@
   .mysqlBox {
     display: inline-block;
     width: 270px;
-    height: 540px;
+    height: 550px;
     box-sizing: border-box;
     border-style: none;
     box-shadow: -1px 0px 0px black;
     text-align: center;
   }
   .orange-box {
-    background-color: orange;
+    background-color: rgb(249, 182, 58);
     color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
   }
-
   .green-box {
-    background-color: green;
+    background-color: rgb(53, 210, 53);
     color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
   }
   .mongodbPara{
     padding-right: 8px;
