@@ -1,0 +1,48 @@
+.container{
+    text-align: center;
+    margin-top: 100px;
+    background-color: white;
+  }
+  .mongodbBox {
+    display: inline-block;
+    width: 265px;
+    height: 540px;
+    box-sizing: border-box;
+    border-style: none;
+    box-shadow: 1px 0px 0px black;
+    text-align: center;
+  }
+  .mysqlBox {
+    display: inline-block;
+    width: 270px;
+    height: 540px;
+    box-sizing: border-box;
+    border-style: none;
+    box-shadow: -1px 0px 0px black;
+    text-align: center;
+  }
+  .orange-box {
+    background-color: orange;
+    color: white;
+  }
+
+  .green-box {
+    background-color: green;
+    color: white;
+  }
+  .mongodbPara{
+    padding-right: 8px;
+  }
+  .mysqlPara{
+    padding-left: 6px;
+  }
+  .mysqlPara1{
+    display: block;
+    padding-left: 10px;
+  }
+  .mongoLogo{
+    padding-right: 10px;
+  }
+  .sqlLogo{
+    padding-left: 10px;
+  }
